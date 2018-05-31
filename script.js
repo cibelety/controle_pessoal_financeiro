@@ -88,5 +88,5 @@ function saldoNegativo(tdSaldo, saldo) {
 
 
 function validaReceita(receita) {
-console.log("teste2");
+//console.log("teste2");
 }
